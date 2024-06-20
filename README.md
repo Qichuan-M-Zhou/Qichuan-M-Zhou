@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qichuan-M-Zhou
-- 👀 I’m a first-year master's student at the University of Michigan Ann Arbor
+- 👀 I’m a second-year master's student at the University of Michigan Ann Arbor
 - 🌱 I’m currently studying survey and data science
 - 📫 you can always reach me via qichuanz@umich.edu
 
